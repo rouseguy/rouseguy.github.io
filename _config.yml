@@ -1,0 +1,6 @@
+
+permalink: pretty
+
+collections:
+  pages:
+     output: True

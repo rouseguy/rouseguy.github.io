@@ -1,0 +1,56 @@
+
+body {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 16px;
+  margin: 8rem 0;
+}
+
+main, header, footer {
+  margin: 0 auto;
+  max-width: 40rem;
+}
+
+h1 {
+  font-size: 1.4rem;
+  text-transform: uppercase;
+}
+
+h2 {
+    font-size: 1rem;
+    margin: 2rem 0 0.5rem 0;
+}
+
+main {
+    margin-top: 2rem;
+}
+
+nav {
+   font-size: 1rem;
+   /* text-transform: uppercase; */
+}
+
+a {
+    color: #666;
+    text-decoration: none;
+    margin-right: 0.2rem;
+}
+
+a:hover {
+    color: #000;
+}
+
+.event {
+   margin: 1rem 0; 
+}
+
+.date {
+    margin-right: 1rem;
+    font-family: Menlo, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.headshot {
+    width: 5rem;
+    height: 5rem;
+    border: Solid 1px #bbb;
+    border-radius: 50%;    
+}
