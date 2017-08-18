@@ -8,6 +8,7 @@ body {
 main, header, footer {
   margin: 0 auto;
   max-width: 40rem;
+  padding: 0 2rem;
 }
 
 h1 {
