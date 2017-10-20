@@ -1,7 +1,38 @@
-- name: Data Science Bootcamp
-  url: http://fifthelephant.in
-  date: 20 Aug 2017
+- name: The Art of Data Science using R
+  url: https://fifthelephant.in/2017-nov-artds-workshop/
+  date: 03 Nov 2017
 
-- name: Deep Learning Bootcamp
-  url: http://fifthelephant.in
-  date: 09 Sep 2017
+- name: The Art of Data Science using Python
+  url: https://fifthelephant.in/2017-nov-artds-workshop/
+  date: 04 Nov 2017
+
+- name: The Art of Data Science using JavaScript
+  url: https://fifthelephant.in/2017-nov-artds-workshop/
+  date: 05 Nov 2017
+
+- name: Applied Machine Learning
+  url: https://www.analyticsvidhya.com/datahacksummit/
+  date: 11 Nov 2017
+
+
+- name: Thinking Narrative Visualization
+  url: http://www.unicomlearning.com/2017/Data_Visualisation_Summit_Bangalore/#close
+  date: 17 Nov 2017
+
+
+- name: Interactive Visualization for Data Science
+  url: https://fifthelephant.in/2017-nov-interactive-viz-workshop/
+  date: 18 Nov 2017
+
+- name: Hacker Math for Machine Learning
+  url: https://fifthelephant.in/2017-nov-hackermath-workshop/
+  date: 25 Nov 2017
+
+- name: Interactive Visualization for Data Science
+  url: https://conferences.oreilly.com/strata/strata-sg
+  date: 05 Dec 2017
+
+
+- name: Introduction to Recommendation System
+  url: https://fifthelephant.in/2017-dec-recommendation-systems-workshop/
+  date: 16 Dec 2017

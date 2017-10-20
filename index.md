@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-## Upcoming Events 
+## Upcoming Workshops and Talks 
 
 <div>
 {% for event in site.data.events %}
